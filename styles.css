@@ -604,6 +604,10 @@ a { color: inherit; text-decoration: none; }
     font-size: 19px;
   }
 
+  .hero-badge img {
+    margin: 0 auto;
+  }
+
   .hero-device {
     flex: none;
     width: 100%;
