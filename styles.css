@@ -168,7 +168,7 @@ a { color: inherit; text-decoration: none; }
 }
 
 .hero-badge img {
-  height: 54px;
+  height: 72px;
   width: auto;
   transition: opacity 0.3s;
 }
